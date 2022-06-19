@@ -1,6 +1,6 @@
-global.owner = ['6281515474080'] // Put your number here
-global.mods = ['6281515474080'] // Want some help?
-global.prems = ['6281515474080'] // Premium user has unlimited limit
+global.owner = ['6285232604817'] // Put your number here
+global.mods = ['6285771052661'] // Want some help?
+global.prems = ['6285232604817'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -28,23 +28,23 @@ global.APIKeys = { // APIKey Here
 
 //===========Sticker WM============//
 global.packname = 'Made by'
-global.author = 'Koleksi BOT'
+global.author = 'KoKoRey BOT'
 
-global.wm = 'Made by : Koleksibot'
+global.wm = 'Made by : itsmeRey'
 global.wait = '*tunggu sedang diproses...*'
 global.eror = '*maaf server sedang sibuk*'
 
 //========Url 1 Template Buttons=========//
 global.ig = 'Instagram Owner'
-global.lig = 'https://instagram.com/cyber_mrlinkerrorsystemoffical'
+global.lig = 'https://instagram.com/callme_rey1921'
 
 //========Url 2 Template Buttons=========//
 global.dtu2 = 'Group Bot WhatsApp'
-global.urlnya2 = 'https://chat.whatsapp.com/'
+global.urlnya2 = 'https://chat.whatsapp.com/CLiP64ipTLNIZeecmyPXRJ'
 
 //=============callButtons=============//
 global.dtc = 'Source Code'
-global.urlnya2 = 'https://s.id/koleksibotku'
+global.urlnya2 = 'https://instagram.com/callme_rey1921'
 
 
 global.multiplier = 69 // The higher, The harder levelup
